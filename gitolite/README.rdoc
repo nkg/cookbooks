@@ -1,5 +1,5 @@
 = DESCRIPTION:
-  Installs and configures gitolite in a multi-tenant manor
+  Installs and configures gitolite in a "multi-cuisine restaurant"
 
 = REQUIREMENTS:
   git
